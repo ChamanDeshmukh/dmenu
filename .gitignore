@@ -3,6 +3,7 @@ dmenu
 dmenu_path
 dmenu_run
 stest
+./dmenu_5-3.diff
 *.o
 *.rej
 *.orig
